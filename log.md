@@ -8,4 +8,12 @@
 
 **Link to work:** http://codepen.io/ballek/pen/JEjZjw
 
+### Day 1: January 5, 2017 
+
+**Today's Progress**: Fixed buttons, gave them hover effects. Fixed fa icon hover effects. Implemented a "nav" and planning to play with responsive effects. 
+
+**Thoughts:** Scrapping the portfolio page was the right call. I'm googling piece by piece and feeling much more comfortable. 
+
+**Link to work:** http://codepen.io/ballek/pen/JEjZjw
+
 
