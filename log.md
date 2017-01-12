@@ -25,3 +25,15 @@
 **Link to work:** http://codepen.io/ballek/pen/JEjZjw & http://codepen.io/ballek/pen/BpozZZ
 
 
+### Day 3: January 11, 2017 
+
+**Today's Progress**: Worked on NavBar tab effects. Took me the whole damn 30 minutes. AGAIN. 
+
+**Thoughts:** WHY THE FUCK CAN'T I FIGURE THIS OUT. 
+
+**Link to work:** http://codepen.io/ballek/pen/JEjZjw & http://codepen.io/ballek/pen/BpozZZ
+
+
+
+
+
